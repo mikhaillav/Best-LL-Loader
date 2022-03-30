@@ -1,5 +1,5 @@
-#by Fundi1330
-#original by mikhillav
+#Best LL-Loader by Fundi1330
+#original LL-Loader by mikhaillav
 
 import urllib.request
 import os
