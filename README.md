@@ -10,4 +10,6 @@ After it B-LL-L start generate server.
 
 p.s use full version name, for example 1.18.12.01 and not 1.18.12!
 
-p.p.s folder musn't have spaces
+p.p.s folder musn't have spaces in name
+
+p.p.p.s original LL-Loader: https://github.com/mikhaillav/LL-Loader
